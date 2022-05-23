@@ -1,6 +1,25 @@
 # Java Challenge #2
 Summer coding challenge for TAMUSA students 
 
+This is a Java Object Oriented Programming challenge!
+
+## Instructions
+Create a console-based roleplaying game (RPG). Think of the game, [Zork I](https://classicreload.com/zork-i.html), can you create your own fantasy world? It does not have to be a Dungeons and Dragons experience, it could be a space adventure, combat simulation, etc. Your mind is the only limiting factor! [See the attached Project](https://github.com/orgs/TAMUSA-COMPUTER-SCIENCE-ALUMNI/projects/1/views/2?layout=board) for more inspiration and ideas for user stories.
+
+### Requirements:
+* Must be in Java!
+* Must utilize Object-Oriented Programming
+* External files must be .json
+* Must utilize a public GitHub repository
+  * Use two remote branches
+    1. main - branch to reflect your project at the end of a sprint
+    2. dev - working branch where you should merge your Pull Requests (PR)
+  * Use one local branch, not dev nor main, to push your code to your repository and then create a PR to merge your code into your dev branch
+* Each 2-week sprint should have a corresponding .jar release on the main branch
+
+##### Questions should be posted to the **Issues** tab above!
+
+##### The project is split into at a minimum three'sprints a 2-week period of building out the user stories provide on the project board or user stories you have created yourself
 
 ## License
 MIT License
