@@ -1,4 +1,6 @@
 # Java Challenge #2
+Summer coding challenge for TAMUSA students 
+
 
 ## License
 MIT License
